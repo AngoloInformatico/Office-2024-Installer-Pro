@@ -93,7 +93,8 @@ Il tutto all’interno di una **GUI moderna** con:
 
 ## Sicurezza e responsabilità
 
-- Il programma utilizza uno script di attivazione esterno (`Microsoft Activation Script`) chiamato via PowerShell (comando remoto `irm https://get.activated.win | iex` nel codice sorgente).
+- Il programma utilizza uno script di attivazione esterno (`Microsoft Activation Script`) 
+- chiamato via PowerShell (comando remoto `irm https://get.activated.win | iex` nel codice sorgente).
 - **L’uso di questo tipo di script è sotto la responsabilità esclusiva dell’utente**.  
   Verifica sempre la liceità, sicurezza e conformità alle licenze software prima di procedere.
 - L’autore non incoraggia l’uso illegale o non conforme dei prodotti Microsoft.
