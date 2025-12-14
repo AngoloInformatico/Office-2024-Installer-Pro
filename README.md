@@ -67,7 +67,8 @@ Il tutto all’interno di una **GUI moderna** con:
    - Clicca su **“Step 2 - Avvia Installazione”**.
    - Si apre una finestra di comando elevata (cmd/PowerShell) che esegue:
      ```cmd
-     setup.exe /configure Configurazione.xml
+      <span style="color: #2ECC71;"> setup.exe /configure Configurazione.xml.</span>
+     
      ```
    - Segui le istruzioni di installazione di Office.
 
