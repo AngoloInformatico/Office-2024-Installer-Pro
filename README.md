@@ -6,10 +6,13 @@ Office 2024 Installer Pro è distribuito anche come **eseguibile standalone per 
 
 ![immagine](immagini/Screen.png)
 
+
+
+
 Questa versione è stata generata a partire dallo script Python Office-2024-Installer-Pro.py`, ma è stata **impacchettata in un unico file `.exe`** tramite tool come PyInstaller / simili.
 
 
-_______________________________________
+
 ## Descrizione
 
 Office 2024 Installer Pro è un piccolo installer guidato che semplifica:
