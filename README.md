@@ -104,6 +104,10 @@ Per eventuali bug, richieste o suggerimenti, apri una *issue* nel repository Git
 
 
 ## Licenza
+BSD 3-Clausole License
+
+Copyright (c) 2025, Alex Lignola
+
 
 
 
