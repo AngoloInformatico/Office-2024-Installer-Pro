@@ -46,7 +46,7 @@ Il tutto all’interno di una **GUI moderna** con:
 
 ## Come usare la versione .EXE
 
-1. Scarica il file Office2024.Installer.Pro.rar - Link:[Office2024.Installer.Pro.rar]([https://esempio.com](https://github.com/AngoloInformatico/Office-2024-Installer-Pro/releases/download/v.1.0.0/Office2024.Installer.Pro.rar)
+1. Scarica il file Office2024.Installer.Pro.rar - Link:[Office2024.Installer.Pro.rar](https://github.com/AngoloInformatico/Office-2024-Installer-Pro/releases/download/v.1.0.0/Office2024.Installer.Pro.rar)
 2. Estrai il contenuto in una cartella a tua scelta.
 3. nella stessa cartella devono esserci i tre file:
    - `Configurazione.xml`
