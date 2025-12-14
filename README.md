@@ -46,13 +46,15 @@ Il tutto all’interno di una **GUI moderna** con:
 
 ## Come usare la versione .EXE
 
-1. Copia l’eseguibile (ad es. `Office 2024 Installer Pro.exe`) in una cartella a tua scelta.
-2. Copia nella stessa cartella:
+1. Scarica il file Office2024.Installer.Pro.rar
+2. Estrai il contenuto in una cartella a tua scelta.
+3. nella stessa cartella devono esserci i tre file:
    - `Configurazione.xml`
    - `setup.exe`
-   
-3. Esegui il file `.exe` con doppio clic.
-4. Verrà aperta la finestra **Office 2024 Installer Pro**.
+   - 'Office 2024 Installer Pro.exe'
+     
+4. Esegui il file `.exe` con doppio clic.
+5. Verrà aperta la finestra **Office 2024 Installer Pro**.
 
 
 ### Flusso operativo
