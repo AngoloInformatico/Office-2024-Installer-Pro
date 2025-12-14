@@ -1,20 +1,23 @@
 Benvenuti nel Repository # Office-2024-Installer-Pro
-Questo repository contiene il file eseguibile standalone (.exe) per [Office-2024-Installer-Pro]. Questo programma è stato creato a partire da un codice Python ed è fornito esclusivamente a scopo dimostrativo e di Proof of Concept (PoC).
+Questo repository contiene il file eseguibile standalone (.exe) per [Office-2024-Installer-Pro]. 
+Questo programma è stato creato a partire da un codice Python ed è fornito esclusivamente a scopo dimostrativo e di Proof of Concept (PoC).
 
-⚠️ Disclaimer, Avviso di Sicurezza e Limitazione di Responsabilità
-Natura del File: Si noti che questo repository distribuisce un file eseguibile binario (.exe). L'utente è invitato a procedere con estrema cautela nell'esecuzione di qualsiasi binario scaricato da Internet.
+⚠️
+Disclaimer, Avviso di Sicurezza e Limitazione di Responsabilità
+Natura del File: Si noti che questo repository distribuisce un file eseguibile binario (.exe).
+L'utente è invitato a procedere con estrema cautela nell'esecuzione di qualsiasi binario scaricato da Internet.
 
-Uso Esclusivamente Dimostrativo: Questo software non è stato concepito e non è destinato ad essere utilizzato in ambienti di produzione, in applicazioni critiche o per qualsiasi attività che possa causare danni, perdite di dati o interruzioni operative.
+Uso Esclusivamente Dimostrativo: Questo software non è stato concepito e non è destinato ad essere utilizzato in ambienti di produzione,
+in applicazioni critiche o per qualsiasi attività che possa causare danni, perdite di dati o interruzioni operative.
 
-Esecuzione a Proprio Rischio: L'autore (o gli autori) e i contributori non offrono alcuna garanzia esplicita o implicita sulla sicurezza, l'affidabilità o l'idoneità di questo file eseguibile per qualsiasi scopo.
+Esecuzione a Proprio Rischio: L'autore (o gli autori) e i contributori non offrono alcuna garanzia esplicita o implicita sulla sicurezza,
+l'affidabilità o l'idoneità di questo file eseguibile per qualsiasi scopo.
 
-L'utente è l'unico responsabile dell'uso di questo software. L'utilizzo di questo file .exe implica che l'utente accetta di sollevare l'autore da ogni responsabilità per eventuali danni a cose (inclusi, ma non limitati a, danni al sistema operativo, hardware, software o dati) o persone che potrebbero derivare dall'esecuzione, dall'uso improprio o da qualsiasi malfunzionamento del programma.
+L'utente è l'unico responsabile dell'uso di questo software. L'utilizzo di questo file .exe implica che l'utente accetta
+di sollevare l'autore da ogni responsabilità per eventuali danni a cose (inclusi, ma non limitati a, danni al sistema operativo, hardware, software o dati)
+o persone che potrebbero derivare dall'esecuzione, dall'uso improprio o da qualsiasi malfunzionamento del programma.
 
 Si sconsiglia fortemente l'uso in contesti diversi da quello puramente dimostrativo.
-
-Questa versione è più specifica riguardo al fatto che l'utente sta eseguendo un file .exe e rafforza il concetto di "uso a proprio rischio".
-
-
 
 # Office-2024-Installer-Pro
 App Standalone per l'installazione e l'attivazione di Microsoft Office 2024 x64
