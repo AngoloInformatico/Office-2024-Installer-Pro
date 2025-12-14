@@ -20,7 +20,7 @@ o persone che potrebbero derivare dall'esecuzione, dall'uso improprio o da quals
 Si sconsiglia fortemente l'uso in contesti diversi da quello puramente dimostrativo.
 
 # Office-2024-Installer-Pro
-Office 2024 Installer Pro è distribuito anche come **eseguibile standalone per Windows 10/11**, pensato per utenti finali che non vogliono installare Python o librerie aggiuntive.
+Office 2024 Installer Pro è distribuito come **eseguibile standalone per Windows 10/11**, pensato per utenti finali che non vogliono installare Python o librerie aggiuntive.
 ___________________________________________________________________________________________________________________________________________________
 ![immagine](immagini/Screen.png)
 ___________________________________________________________________________________________________________________________________________________
