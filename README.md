@@ -1,6 +1,6 @@
 # Office-2024-Installer-Pro
 App Standalone per l'installazione e l'attivazione di Microsoft Office 2024 x64
-# Office 2024 Installer Pro (.EXE Standalone)
+### Office 2024 Installer Pro (.EXE Standalone)
 
 Office 2024 Installer Pro è distribuito anche come **eseguibile standalone per Windows 10/11**, pensato per utenti finali che non vogliono installare Python o librerie aggiuntive.
 
