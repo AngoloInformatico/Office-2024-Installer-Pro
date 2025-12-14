@@ -66,11 +66,7 @@ Il tutto all’interno di una **GUI moderna** con:
 2. **Step 2 – Avvia Installazione**
    - Clicca su **“Step 2 - Avvia Installazione”**.
    - Si apre una finestra di comando elevata (cmd/PowerShell) che esegue:
-     ```cmd
-      <span style="color: #2ECC71;"> setup.exe /configure Configurazione.xml.</span>
-      <span style="color: #2ECC71;">Testo verde brillante.</span>
-     
-     ```
+     ```cmd setup.exe /configure Configurazione.xml ```
    - Segui le istruzioni di installazione di Office.
 
 3. **Step 3 – Attiva Office o Windows 10/11**
