@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 
 Questa versione è stata generata a partire dallo script Python Office-2024-Installer-Pro.py 
-`ma è stata **impacchettata in un unico file `.exe`** tramite tool come PyInstaller / simili.
+**`ma è stata impacchettata in un unico file .exe`** tramite tool come PyInstaller / simili.
 
 ## Descrizione
 
