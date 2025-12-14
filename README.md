@@ -48,7 +48,7 @@ Il tutto all’interno di una **GUI moderna** con:
 
 1. Scarica il file  [Office2024.Installer.Pro.rar](https://github.com/AngoloInformatico/Office-2024-Installer-Pro/releases/download/v.1.0.0/Office2024.Installer.Pro.rar)
 2. Estrai il contenuto in una cartella a tua scelta.
-3. Per Funzionare , ella stessa cartella devono esserci i seguenti tre file:
+3. Per Funzionare , i seguenti tre file devono trovarsi nella stessa cartella:
    - `Configurazione.xml`
    - `setup.exe`
    -  `Office 2024 Installer Pro.exe`
